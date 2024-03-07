@@ -1,1 +1,1 @@
-# Information-Retieval-for-MLR-algorithm-Logistic-Regression
+# Information-Retieval-For-MLR-Algorithm-Logistic-Regression
