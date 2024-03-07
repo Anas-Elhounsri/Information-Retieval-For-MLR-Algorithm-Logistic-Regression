@@ -1,0 +1,125 @@
+loinc_num,long_common_name,component,system,property,relevance,presence
+1988-5,C reactive protein [Mass/volume] in Serum or Plasma,C reactive protein,Ser/Plas,MCnc,0,0
+1959-6,Bicarbonate [Moles/volume] in Blood,Bicarbonate,Bld,SCnc,0,1
+10331-7,Rh [Type] in Blood,Rh,Bld,Type,0,1
+18998-5,Trimethoprim+Sulfamethoxazole [Susceptibility],Trimethoprim+Sulfamethoxazole,Isolate,Susc,0,0
+1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Ser/Plas,MCnc,0,0
+890-4,Blood group antibody screen [Presence] in Serum or Plasma,Blood group antibody screen,Ser/Plas,ACnc,0,1
+20565-8,"Carbon dioxide, total [Moles/volume] in Blood",Carbon dioxide,Bld,SCnc,0,0
+18906-8,Ciprofloxacin [Susceptibility],Ciprofloxacin,Isolate,Susc,0,0
+2143-6,Cortisol [Mass/volume] in Serum or Plasma,Cortisol,Ser/Plas,MCnc,0,0
+2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Ser/Plas,SCnc,0,0
+4671-4,Protein C [Mass/volume] in Plasma,Protein C,Plas,MCnc,0,0
+18864-9,Ampicillin [Susceptibility],Ampicillin,Isolate,Susc,0,0
+15076-3,Glucose [Moles/volume] in Urine,Glucose,Urine,SCnc,1,1
+1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,Amylase,Ser/Plas,CCnc,0,0
+26474-7,Lymphocytes [#/volume] in Blood,Lymphocytes,Bld,NCnc,0,1
+1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Ser/Plas,CCnc,0,0
+13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture,Staphylococcus aureus.methicillin resistant isolate,XXX,ACnc,0,0
+925-8,Blood product disposition [Type],Blood product disposition,^BPU,Type,0,1
+14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Ser/Plas,SCnc,1,1
+14747-0,Glucose [Moles/volume] in Pleural fluid,Glucose,Plr fld,SCnc,1,1
+2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Ser/Plas,MCnc,0,0
+1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Ser/Plas,MCnc,0,0
+26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Bld,NCnc,0,1
+74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,MCnc,1,1
+8310-5,Body temperature,Body temperature,^Patient,Temp,0,0
+934-0,Blood product unit ID [#],Blood product unit ID,Dose,Num,0,1
+14423-8,Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synv fld,MCnc,0,0
+1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Ser/Plas,CCnc,0,0
+14764-5,Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Ser/Plas,SCnc,1,1
+1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Bld,SCnc,0,1
+1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Ser/Plas,MCnc,0,0
+1003-3,Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma,Indirect antiglobulin test.complement specific reagent,Ser/Plas,ACnc,0,0
+1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MCnc,0,0
+26484-6,Monocytes [#/volume] in Blood,Monocytes,Bld,NCnc,0,1
+18865-6,Ampicillin+Sulbactam [Susceptibility],Ampicillin+Sulbactam,Isolate,Susc,0,0
+882-1,ABO & Rh group [Type] in Blood,ABO+Rh group,Bld,Type,0,1
+1250-0,Major crossmatch [interpretation],Major crossmatch,Ser/Plas,Imp,0,0
+883-9,ABO group [Type] in Blood,ABO group,Bld,Type,0,1
+2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum,Cobalamins,Ser,MCnc,0,0
+31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,Hematocrit,Bld,VFr,0,1
+6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Ser/Plas,CCnc,0,0
+2069-3,Chloride [Moles/volume] in Blood,Chloride,Bld,SCnc,0,1
+3082-5,Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plas,MCnc,0,0
+30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,C reactive protein,Ser/Plas,MCnc,0,0
+33870-7,Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,XXX,PrThr,0,1
+20442-0,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Ser,NCnc,0,0
+2111-3,Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma,Choriogonadotropin.beta subunit,Ser/Plas,SCnc,0,1
+14578-9,ABO group [Type] in Blood from Blood product unit,ABO group,Bld^BPU,Type,0,0
+18955-5,Nitrofurantoin [Susceptibility],Nitrofurantoin,Isolate,Susc,0,0
+2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,Carcinoembryonic Ag,Ser/Plas,MCnc,0,0
+933-2,Blood product type,Blood product type,^BPU,Type,0,1
+19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc,0,0
+26478-8,Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Bld,NFr,0,1
+19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma,Choriogonadotropin,Ser/Plas,ACnc,0,0
+1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Ser/Plas,SCnc,0,0
+35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Ser/Plas,MSCnc,1,1
+2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc,0,0
+1759-0,Albumin/Globulin [Mass ratio] in Serum or Plasma,Albumin/Globulin,Ser/Plas,MCrto,0,0
+2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",Carbon dioxide,Ser/Plas,SCnc,0,0
+35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MSCnc,0,0
+20629-2,Levofloxacin [Susceptibility],Levofloxacin,Isolate,Susc,0,0
+17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Ser/Plas,MCnc,0,0
+54439-5,Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus,MFr,0,0
+18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc,0,0
+18928-2,Gentamicin [Susceptibility],Gentamicin,Isolate,Susc,0,0
+29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Ser/Plas,SCnc,0,0
+23658-8,Other Antibiotic [Susceptibility],Antibiotic XXX,Isolate,Susc,0,0
+2339-0,Glucose [Mass/volume] in Blood,Glucose,Bld,MCnc,1,1
+15074-8,Glucose [Moles/volume] in Blood,Glucose,Bld,SCnc,1,1
+40858-3,Glucose [Mass/volume] in Capillary blood --baseline,Glucose^baseline,BldC,MCnc,1,1
+41651-1,Glucose [Mass/volume] in Arterial blood,Glucose,BldA,MCnc,1,1
+41652-9,Glucose [Mass/volume] in Venous blood,Glucose,BldV,MCnc,1,1
+39481-7,Glucose [Moles/volume] in Arterial blood,Glucose,BldA,SCnc,1,1
+51596-5,Glucose [Moles/volume] in Capillary blood,Glucose,BldC,SCnc,1,1
+39480-9,Glucose [Moles/volume] in Venous blood,Glucose,BldV,SCnc,1,1
+49134-0,Glucose [Mass/volume] in Blood --2 hours post dose glucose,Glucose^2H post dose glucose,Bld,MCnc,1,1
+32016-8,Glucose [Mass/volume] in Capillary blood,Glucose,BldC,MCnc,1,1
+47995-6,Glucose [Moles/volume] in Cord blood,Glucose,BldCo,SCnc,1,1
+52041-1,Blood glucose monitor attachment,Blood glucose monitors attachment,^Patient,Find,1,1
+101476-0,Fasting glucose [Moles/volume] in Venous blood,Glucose^post CFst,BldV,SCnc,1,1
+96594-7,Glucose [Mass/volume] in DBS,Glucose,Bld.dot,MCnc,1,1
+88365-2,Glucose [Mass/volume] in Blood --pre-meal,Glucose^pre-meal,Bld,MCnc,1,1
+41653-7,Glucose [Mass/volume] in Capillary blood by Glucometer,Glucose,BldC,MCnc,1,1
+14743-9,Glucose [Moles/volume] in Capillary blood by Glucometer,Glucose,BldC,SCnc,1,1
+27353-2,Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin,Estimated average glucose,Bld,MCnc,1,1
+53553-4,Glucose mean value [Moles/volume] in Blood Estimated from glycated hemoglobin,Estimated average glucose,Bld,SCnc,1,1
+59813-6,Glucose [Moles/volume] in Capillary blood by Glucometer --7 AM specimen,Glucose^7 AM specimen,BldC,SCnc,1,1
+1556-0,Fasting glucose [Mass/volume] in Capillary blood,Glucose^post CFst,BldC,MCnc,1,1
+1557-8,Fasting glucose [Mass/volume] in Venous blood,Glucose^post CFst,BldV,MCnc,1,1
+87422-2,Glucose [Mass/volume] in Blood --post meal,Glucose^post meal,Bld,MCnc,1,1
+100746-7,Glucose [Moles/volume] in Mixed venous blood,Glucose,BldMV,SCnc,1,1
+2340-8,Glucose [Mass/volume] in Blood by Automated test strip,Glucose,Bld,MCnc,1,1
+72516-8,Glucose [Moles/volume] in Blood by Automated test strip,Glucose,Bld,SCnc,1,1
+76629-5,Fasting glucose [Moles/volume] in Blood,Glucose^post CFst,Bld,SCnc,1,1
+41604-0,Fasting glucose [Mass/volume] in Capillary blood by Glucometer,Glucose^post CFst,BldC,MCnc,1,1
+14770-2,Fasting glucose [Moles/volume] in Capillary blood by Glucometer,Glucose^post CFst,BldC,SCnc,1,1
+97062-4,History of High blood glucose,High blood glucose,^Patient,Hx,1,1
+77135-2,"Glucose [Moles/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,SCnc,1,1
+2341-6,Glucose [Mass/volume] in Blood by Test strip manual,Glucose,Bld,MCnc,1,1
+81637-1,"Glucose meter to reference method correlation [Ratio] in Serum, Plasma or Blood by calculation",Glucose meter to reference method correlation,Ser/Plas/Bld,Ratio,1,1
+14760-3,Glucose [Moles/volume] in Capillary blood --2 hours post meal,Glucose^2H post meal,BldC,SCnc,1,1
+6689-4,Glucose [Mass/volume] in Blood --2 hours post meal,Glucose^2H post meal,Bld,MCnc,1,1
+77677-3,"Glucose [Moles/volume] in Serum, Plasma or Blood --2 hours post meal",Glucose^2H post meal,Ser/Plas/Bld,SCnc,1,1
+11047-8,Glucose phosphate isomerase [Enzymatic activity/volume] in Red Blood Cells,Glucose phosphate isomerase,RBC,CCnc,1,1
+44050-3,Glucose phosphate isomerase [Enzymatic activity/mass] in Red Blood Cells,Glucose phosphate isomerase,RBC,CCnt,1,1
+62850-3,Deprecated PhenX measure - fasting plasma glucose for diabetes screening - blood draw,PhenX measure - fasting plasma glucose for diabetes screening - blood draw,^Patient,XXX,1,1
+96045-0,Osmotic fragility of Red Blood Cells--10% glucose 48 hour 37 degree C incubation,Osmotic fragility^10% glucose 48H 37 deg C incubation,RBC,NFr,1,1
+49502-8,Glucose-6-Phosphate dehydrogenase [Entitic Catalytic Activity] in Blood,Glucose-6-Phosphate dehydrogenase,Bld,EntCat,1,1
+74542-2,Pyruvate kinase/Glucose-6-Phosphate dehydrogenase [Enzymatic activity ratio] in Red Blood Cells,Pyruvate kinase/Glucose-6-Phosphate dehydrogenase,RBC,CRto,1,1
+32779-1,Glucose-6-Phosphatase [Enzymatic activity/volume] in Red Blood Cells,Glucose-6-Phosphatase,RBC,CCnc,1,1
+2357-2,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells,Glucose-6-Phosphate dehydrogenase,RBC,CCnc,1,1
+32546-4,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells,Glucose-6-Phosphate dehydrogenase,RBC,CCnt,1,1
+71593-8,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/substance] in Red Blood Cells,Glucose-6-Phosphate dehydrogenase,RBC,CSub,1,1
+58089-4,Glucose-6-Phosphate dehydrogenase newborn screen interpretation,Glucose-6-Phosphate dehydrogenase,Bld.dot,Imp,1,1
+33287-4,Glucose-6-Phosphate dehydrogenase [Presence] in DBS,Glucose-6-Phosphate dehydrogenase,Bld.dot,PrThr,1,1
+2356-4,Glucose-6-Phosphate dehydrogenase [Presence] in Red Blood Cells,Glucose-6-Phosphate dehydrogenase,RBC,PrThr,1,1
+42319-4,Glucose-6-Phosphate dehydrogenase phenotype [Interpretation] in Red Blood Cells,Glucose-6-Phosphate dehydrogenase phenotype,RBC,Imp,1,1
+74469-8,Glucose-6-Phosphate dehydrogenase/Pyruvate kinase [Ratio] in Blood,Glucose-6-Phosphate dehydrogenase/Pyruvate kinase,Bld,Ratio,1,1
+49925-1,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells by Glock and McLean,Glucose-6-Phosphate dehydrogenase,RBC,CCnt,1,1
+49926-9,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells by WHO method,Glucose-6-Phosphate dehydrogenase,RBC,CCnt,1,1
+49266-0,Glucose-6-Phosphate dehydrogenase phenotype [Interpretation] in Red Blood Cells Narrative,Glucose-6-Phosphate dehydrogenase phenotype,RBC,Imp,1,1
+58091-0,Glucose-6-Phosphate dehydrogenase newborn screen panel LHC-Forms,Glucose-6-Phosphate dehydrogenase newborn screen panel,Bld.dot,XXX,1,1
+58090-2,Glucose-6-Phosphate dehydrogenase newborn screening comment-discussion,Glucose-6-Phosphate dehydrogenase newborn screening comment-discussion,Bld.dot,Txt,1,1
+2360-6,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Leukocytes,Glucose-6-Phosphate dehydrogenase,WBC,CCnc,1,1
