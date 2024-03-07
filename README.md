@@ -10,6 +10,8 @@ The dataset was extracted from a medical platform called "LOINC", and intentiona
 
 We have three queries: "Glucose in Blood", "Bilirubin in Plasma" and "White Blood Cells Count", with each their list of documents.
 
+I also assigned a new column "presence", which basically a "loose label" for terms existence in the query and the documents, basically if a document has at least one word matching with the query, we assign 1, otherwise 0, we also assign 1 if the words are related, for example "Blood" and "Plasma". This is used to help reduce noise for the ML model.
+
 Now that we have our dataset labeled manually as relevant and non relevant, now I had to prepare the data by:
 * Removing punctuations 
 * Tokenizing
