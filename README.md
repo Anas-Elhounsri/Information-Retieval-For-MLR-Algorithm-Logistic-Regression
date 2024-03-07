@@ -1,4 +1,4 @@
-# Information Retieval (IR) For Machine Learning Ranking (MLR) UsingLogistic Regression:
+# Information Retieval (IR) For Machine Learning Ranking (MLR) Using Logistic Regression:
 ## About the project:
 Information retieval have always been an important and hot topic when it comes to data processing, analysis, data science, and the backbone for the currently most used Artificial Intelligence models LLM, this project aims to apply some concepts about textual information retrieval for extracting relevant information, and delivering the correct or at least the most relevant documents related to specific queries, in this case, medical queries.
 
